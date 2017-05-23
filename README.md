@@ -1,5 +1,8 @@
 # Git_Good
+
 Presentation repository for Git and GitHub
+
+Presenter: Brian Hankins (https://github.com/brianhankins)
 
 Requirements:
 
@@ -18,3 +21,5 @@ $ git config --global user.name "[name]"
 $ git config --global user.email "[email address]" 
 ```
 
+=======
+Instructor Notes can be found here: https://github.com/qccoders/Git_Good/blob/master/GitCourseOutline-InstructorNotesModified.docx?raw=true
