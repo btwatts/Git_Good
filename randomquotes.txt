@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *******
 Only edit your number!
 *******
@@ -76,3 +77,6 @@ Only edit your number!
 
 
 25. "Half of the people in the world are below average." ~Funny and True
+=======
+ontrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33
+>>>>>>> 1ba21fda7fe89b7357db5c14b21447189f131723
